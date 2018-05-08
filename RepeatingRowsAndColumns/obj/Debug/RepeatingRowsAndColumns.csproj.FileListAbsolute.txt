@@ -1,0 +1,7 @@
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\RepeatingRowsAndColumns\bin\Debug\RepeatingRowsAndColumns.exe
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\RepeatingRowsAndColumns\bin\Debug\RepeatingRowsAndColumns.pdb
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\RepeatingRowsAndColumns\bin\Debug\NPOI.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\RepeatingRowsAndColumns\bin\Debug\Ionic.Zip.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\RepeatingRowsAndColumns\obj\Debug\RepeatingRowsAndColumns.csproj.CoreCompileInputs.cache
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\RepeatingRowsAndColumns\obj\Debug\RepeatingRowsAndColumns.exe
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\RepeatingRowsAndColumns\obj\Debug\RepeatingRowsAndColumns.pdb

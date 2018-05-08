@@ -1,0 +1,9 @@
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ExtractStringsFromXls\bin\Debug\ExtractStringsFromXls.exe.config
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ExtractStringsFromXls\bin\Debug\ExtractStringsFromXls.exe
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ExtractStringsFromXls\bin\Debug\ExtractStringsFromXls.pdb
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ExtractStringsFromXls\bin\Debug\NPOI.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ExtractStringsFromXls\bin\Debug\Ionic.Zip.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ExtractStringsFromXls\obj\Debug\ExtractStringsFromXls.csprojResolveAssemblyReference.cache
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ExtractStringsFromXls\obj\Debug\ExtractStringsFromXls.csproj.CoreCompileInputs.cache
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ExtractStringsFromXls\obj\Debug\ExtractStringsFromXls.exe
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ExtractStringsFromXls\obj\Debug\ExtractStringsFromXls.pdb

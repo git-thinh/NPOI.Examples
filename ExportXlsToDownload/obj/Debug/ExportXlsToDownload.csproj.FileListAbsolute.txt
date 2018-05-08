@@ -1,0 +1,9 @@
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ExportXlsToDownload\bin\ExportXlsToDownload.dll.config
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ExportXlsToDownload\bin\ExportXlsToDownload.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ExportXlsToDownload\bin\ExportXlsToDownload.pdb
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ExportXlsToDownload\bin\NPOI.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ExportXlsToDownload\bin\Ionic.Zip.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ExportXlsToDownload\obj\Debug\ExportXlsToDownload.csprojResolveAssemblyReference.cache
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ExportXlsToDownload\obj\Debug\ExportXlsToDownload.csproj.CoreCompileInputs.cache
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ExportXlsToDownload\obj\Debug\ExportXlsToDownload.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ExportXlsToDownload\obj\Debug\ExportXlsToDownload.pdb

@@ -1,0 +1,7 @@
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\CreateHeaderFooterInXls\bin\Debug\CreateHeaderFooterInXls.exe
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\CreateHeaderFooterInXls\bin\Debug\CreateHeaderFooterInXls.pdb
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\CreateHeaderFooterInXls\bin\Debug\Ionic.Zip.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\CreateHeaderFooterInXls\bin\Debug\NPOI.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\CreateHeaderFooterInXls\obj\Debug\CreateHeaderFooterInXls.csproj.CoreCompileInputs.cache
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\CreateHeaderFooterInXls\obj\Debug\CreateHeaderFooterInXls.exe
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\CreateHeaderFooterInXls\obj\Debug\CreateHeaderFooterInXls.pdb

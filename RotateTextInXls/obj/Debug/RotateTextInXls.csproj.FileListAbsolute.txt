@@ -1,0 +1,7 @@
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\RotateTextInXls\bin\Debug\RotateTextInXls.exe
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\RotateTextInXls\bin\Debug\RotateTextInXls.pdb
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\RotateTextInXls\bin\Debug\NPOI.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\RotateTextInXls\bin\Debug\Ionic.Zip.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\RotateTextInXls\obj\Debug\RotateTextInXls.csproj.CoreCompileInputs.cache
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\RotateTextInXls\obj\Debug\RotateTextInXls.exe
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\RotateTextInXls\obj\Debug\RotateTextInXls.pdb

@@ -1,0 +1,7 @@
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ConditionalFormattingInXls\bin\Debug\ConditionalFormattingInXls.exe
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ConditionalFormattingInXls\bin\Debug\ConditionalFormattingInXls.pdb
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ConditionalFormattingInXls\bin\Debug\NPOI.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ConditionalFormattingInXls\bin\Debug\Ionic.Zip.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ConditionalFormattingInXls\obj\Debug\ConditionalFormattingInXls.csproj.CoreCompileInputs.cache
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ConditionalFormattingInXls\obj\Debug\ConditionalFormattingInXls.exe
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ConditionalFormattingInXls\obj\Debug\ConditionalFormattingInXls.pdb

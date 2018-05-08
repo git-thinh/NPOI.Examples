@@ -1,0 +1,7 @@
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\EnableAutoFilterInXls\bin\Debug\EnableAutoFilterInXls.exe
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\EnableAutoFilterInXls\bin\Debug\EnableAutoFilterInXls.pdb
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\EnableAutoFilterInXls\bin\Debug\Ionic.Zip.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\EnableAutoFilterInXls\bin\Debug\NPOI.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\EnableAutoFilterInXls\obj\Debug\EnableAutoFilterInXls.csproj.CoreCompileInputs.cache
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\EnableAutoFilterInXls\obj\Debug\EnableAutoFilterInXls.exe
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\EnableAutoFilterInXls\obj\Debug\EnableAutoFilterInXls.pdb

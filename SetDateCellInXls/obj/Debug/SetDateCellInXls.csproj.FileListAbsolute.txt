@@ -1,0 +1,7 @@
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\SetDateCellInXls\bin\Debug\SetDateCellInXls.exe
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\SetDateCellInXls\bin\Debug\SetDateCellInXls.pdb
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\SetDateCellInXls\bin\Debug\NPOI.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\SetDateCellInXls\bin\Debug\Ionic.Zip.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\SetDateCellInXls\obj\Debug\SetDateCellInXls.csproj.CoreCompileInputs.cache
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\SetDateCellInXls\obj\Debug\SetDateCellInXls.exe
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\SetDateCellInXls\obj\Debug\SetDateCellInXls.pdb

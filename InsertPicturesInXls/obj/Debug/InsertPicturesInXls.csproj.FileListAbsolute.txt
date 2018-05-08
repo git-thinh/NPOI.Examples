@@ -1,0 +1,7 @@
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\InsertPicturesInXls\bin\Debug\InsertPicturesInXls.exe
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\InsertPicturesInXls\bin\Debug\InsertPicturesInXls.pdb
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\InsertPicturesInXls\bin\Debug\NPOI.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\InsertPicturesInXls\bin\Debug\Ionic.Zip.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\InsertPicturesInXls\obj\Debug\InsertPicturesInXls.csproj.CoreCompileInputs.cache
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\InsertPicturesInXls\obj\Debug\InsertPicturesInXls.exe
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\InsertPicturesInXls\obj\Debug\InsertPicturesInXls.pdb

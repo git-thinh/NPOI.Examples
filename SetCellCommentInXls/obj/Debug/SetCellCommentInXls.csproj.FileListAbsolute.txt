@@ -1,0 +1,7 @@
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\SetCellCommentInXls\bin\Debug\SetCellCommentInXls.exe
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\SetCellCommentInXls\bin\Debug\SetCellCommentInXls.pdb
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\SetCellCommentInXls\bin\Debug\NPOI.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\SetCellCommentInXls\bin\Debug\Ionic.Zip.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\SetCellCommentInXls\obj\Debug\SetCellCommentInXls.csproj.CoreCompileInputs.cache
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\SetCellCommentInXls\obj\Debug\SetCellCommentInXls.exe
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\SetCellCommentInXls\obj\Debug\SetCellCommentInXls.pdb

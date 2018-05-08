@@ -1,0 +1,7 @@
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\SetPrintAreaInXls\bin\Debug\SetPrintAreaInXls.exe
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\SetPrintAreaInXls\bin\Debug\SetPrintAreaInXls.pdb
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\SetPrintAreaInXls\bin\Debug\NPOI.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\SetPrintAreaInXls\bin\Debug\Ionic.Zip.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\SetPrintAreaInXls\obj\Debug\SetPrintAreaInXls.csproj.CoreCompileInputs.cache
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\SetPrintAreaInXls\obj\Debug\SetPrintAreaInXls.exe
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\SetPrintAreaInXls\obj\Debug\SetPrintAreaInXls.pdb

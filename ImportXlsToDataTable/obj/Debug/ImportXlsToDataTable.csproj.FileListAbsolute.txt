@@ -1,0 +1,12 @@
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ImportXlsToDataTable\bin\Debug\xls\Book1.xls
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ImportXlsToDataTable\bin\Debug\ImportXlsToDataTable.exe
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ImportXlsToDataTable\bin\Debug\ImportXlsToDataTable.pdb
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ImportXlsToDataTable\bin\Debug\NPOI.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ImportXlsToDataTable\bin\Debug\Ionic.Zip.dll
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ImportXlsToDataTable\obj\Debug\ImportXlsToDataTable.csprojResolveAssemblyReference.cache
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ImportXlsToDataTable\obj\Debug\ImportXlsToDataTable.Form1.resources
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ImportXlsToDataTable\obj\Debug\ImportXlsToDataTable.Properties.Resources.resources
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ImportXlsToDataTable\obj\Debug\ImportXlsToDataTable.csproj.GenerateResource.Cache
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ImportXlsToDataTable\obj\Debug\ImportXlsToDataTable.csproj.CoreCompileInputs.cache
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ImportXlsToDataTable\obj\Debug\ImportXlsToDataTable.exe
+G:\_CS\Office\npoi\sourceCode\NPOI.Examples\ImportXlsToDataTable\obj\Debug\ImportXlsToDataTable.pdb
